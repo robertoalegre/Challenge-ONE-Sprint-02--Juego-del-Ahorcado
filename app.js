@@ -10,9 +10,8 @@ var palabras = [
   'GRACIAS',
   'MANOS',
   'ORNITORRINCO',
-  'CINE',
-  'GATO',
-  'PERRO',
+  'CASA',
+  'HOLA',
   'FUTURO',
   'PERSONA'
 ]
